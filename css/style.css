@@ -4759,6 +4759,10 @@ footer p {
 			font-size: 20px;
 			
 		}
+		
+		h4, .h4 {
+			font-size: 16px;
+		}
 		.col-sm-4 {margin-bottom: 120px; text-align:center;}
 		
 		.col-sm-5 {margin-top:120px}
