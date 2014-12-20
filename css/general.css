@@ -196,7 +196,8 @@ width: 50px;
 	font-size: 30px;
 	text-decoration: none;
 	list-style-type: none;
-	color: #1abc9c; 
+	color: #1abc9c;
+	justify-content: center
 }
 
 .social > a:hover {
