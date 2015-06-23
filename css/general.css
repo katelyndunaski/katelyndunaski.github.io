@@ -150,13 +150,15 @@ filter: alpha(opacity=95) !important;
 }
 
 #status {
+	width: 500px;
+	height: 500px;
 	position:absolute;
 	left:50%; /* centers the loading animation horizontally one the screen */
 	top:50%; /* centers the loading animation vertically one the screen */
 	background-image:url(../img/status.gif); /* path to your loading animation */
 	background-repeat:no-repeat;
 	background-position:center;
-	margin:150px 0 0 150px; /* is width and height divided by two */
+	margin:-100px 0 0 -100px; /* is width and height divided by two */
 }
 
 
